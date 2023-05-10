@@ -1,0 +1,25 @@
+.jumbotron{
+        background-image: url('./images/danau\ kelimutu.jpg');
+        background-attachment: fixed;
+        color: rgb(238, 232, 230);
+        background-size: cover;
+        background-position: 0 -50px;
+        height: 600px;
+        padding: 4rem;
+        text-shadow: 100px;
+} 
+body{
+        min-height: 300px;
+        float: 1x/2x;
+        background-color: rgb(149, 203, 203);
+        color: #fff;
+}
+#kuliner{
+        background-image: url(images/esy.webp);
+        background-attachment: fixed;
+}
+#tiket {
+       background-image: url(images/gambar2.webp);
+       background-attachment: fixed;
+       min-height: 200px;
+}
